@@ -1,0 +1,11 @@
+A=8
+B=7
+X=A+B
+
+print("Insira o 1º nº:\n")
+A=int(input())
+print("Insira o 2º nº:\n")
+B=int(input())
+
+x=A+B
+print(f"x={x}")
